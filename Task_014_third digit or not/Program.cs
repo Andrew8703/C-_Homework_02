@@ -10,15 +10,6 @@ else
 Console.WriteLine("Третьей цифры нет");
 
 
-
-//try {Console.WriteLine("Третья цифра: "+s[2]);}
-//catch {Console.WriteLine("Третьей цифры нет");}
-
-
-
-
-
-
 /* // Найти третью цифру числа или сообщить, что её нет
 int number = new Random().Next(1, 9999);
 int a = number;
